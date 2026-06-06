@@ -149,6 +149,14 @@ https://www.tinkercad.com/things/9bgYErn8MZc-gs-sistema-de-autonomia-de-bordo
 
 ---
 
+## 🎥 Vídeo Demonstrativo
+
+O link do vídeo encontra-se na pasta `video/` ou pode ser acessado diretamente:
+
+🔗 https://youtu.be/SEU_LINK_AQUI
+
+---
+
 ## 👨‍🚀 Objetivo Acadêmico
 
 Projeto desenvolvido para a Global Solution da FIAP na disciplina de Sistemas de Missão Crítica e Autonomia de Bordo.
