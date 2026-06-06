@@ -1,9 +1,9 @@
 #  GS - Sistema de Autonomia de Bordo
 
-## Equipe
-# Julio Cesar Nogueira RM: 570047
-# Pedro Lucas Souza Provadelli RM: 572547
-# Vitor Louzano RM: 573885
+# Equipe
+ Julio Cesar Nogueira RM: 570047
+ Pedro Lucas Souza Provadelli RM: 572547
+ Vitor Louzano RM: 573885
 
 ---
 
