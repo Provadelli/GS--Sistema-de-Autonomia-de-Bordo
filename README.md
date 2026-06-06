@@ -1,5 +1,12 @@
 #  GS - Sistema de Autonomia de Bordo
 
+## Equipe
+# Julio Cesar Nogueira RM: 570047
+# Pedro Lucas Souza Provadelli RM: 572547
+# Vitor Louzano RM: 573885
+
+---
+
 ##  Descrição da Missão
 
 Em missões espaciais, períodos de perda de comunicação com a Terra são comuns devido à distância, interferências ou à passagem da nave por regiões sem cobertura de sinal. Durante esses momentos, o sistema embarcado precisa operar de forma totalmente autônoma, monitorando condições críticas e tomando decisões sem intervenção humana.
