@@ -1,6 +1,13 @@
-# 🚀 GS - Sistema de Autonomia de Bordo
+#  GS - Sistema de Autonomia de Bordo
 
-## 📖 Descrição da Missão
+# Equipe
+ - Julio Cesar Nogueira RM: 570047
+ - Pedro Lucas Souza Provadelli RM: 572547
+ - Vitor Louzano RM: 573885
+
+---
+
+##  Descrição da Missão
 
 Em missões espaciais, períodos de perda de comunicação com a Terra são comuns devido à distância, interferências ou à passagem da nave por regiões sem cobertura de sinal. Durante esses momentos, o sistema embarcado precisa operar de forma totalmente autônoma, monitorando condições críticas e tomando decisões sem intervenção humana.
 
@@ -10,7 +17,7 @@ O sistema atua como uma camada de segurança da nave, garantindo a continuidade 
 
 ---
 
-## 🛠 Componentes Utilizados
+##  Componentes Utilizados
 
 - Arduino Uno R3
 - Sensor de Temperatura TMP36
@@ -24,7 +31,7 @@ O sistema atua como uma camada de segurança da nave, garantindo a continuidade 
 
 ---
 
-## 🔌 Esquema de Ligação
+##  Esquema de Ligação
 
 ### Sensor TMP36
 
@@ -53,7 +60,7 @@ O sistema atua como uma camada de segurança da nave, garantindo a continuidade 
 
 ---
 
-## ⚙️ Funcionamento do Sistema
+##  Funcionamento do Sistema
 
 O sistema monitora continuamente a temperatura interna da nave e classifica o estado operacional em três níveis:
 
@@ -74,7 +81,7 @@ As informações também são exibidas no Monitor Serial para acompanhamento em 
 
 ---
 
-## ▶️ Instruções de Execução
+##  Instruções de Execução
 
 ### No Tinkercad
 
@@ -95,7 +102,7 @@ As informações também são exibidas no Monitor Serial para acompanhamento em 
 
 ---
 
-## 💻 Código-Fonte Completo
+##  Código-Fonte Completo
 
 O código-fonte completo está disponível neste repositório:
 
@@ -115,7 +122,7 @@ Principais funcionalidades implementadas:
 
 ---
 
-## 📊 Fluxograma de Funcionamento
+##  Fluxograma de Funcionamento
 
 ```text
 Inicialização
@@ -141,7 +148,7 @@ Verde Amarelo Vermelho + Buzzer
 
 ---
 
-## 🌐 Link do Projeto
+##  Link do Projeto
 
 🔗 Tinkercad:
 
@@ -153,7 +160,7 @@ https://www.tinkercad.com/things/9bgYErn8MZc-gs-sistema-de-autonomia-de-bordo
 
 O link do vídeo encontra-se na pasta `video/` ou pode ser acessado diretamente:
 
-🔗 https://youtu.be/SEU_LINK_AQUI
+🔗 https://youtu.be/flt-PZcQIQA
 
 ---
 
