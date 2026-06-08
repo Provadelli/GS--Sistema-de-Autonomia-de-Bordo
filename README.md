@@ -160,7 +160,7 @@ https://www.tinkercad.com/things/9bgYErn8MZc-gs-sistema-de-autonomia-de-bordo
 
 O link do vídeo encontra-se na pasta `video/` ou pode ser acessado diretamente:
 
-🔗 https://youtu.be/SEU_LINK_AQUI
+🔗 [https://youtu.be/SEU_LINK_AQUI](https://github.com/Provadelli/GS--Sistema-de-Autonomia-de-Bordo.git)
 
 ---
 
